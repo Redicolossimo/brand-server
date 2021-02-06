@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id_product": 1,
+      "product_name": "MANGO PEOPLE T-SHIRT",
+      "price": 52,
+      "product_img": "img/productsImg/1.jpg"
+    },
+    {
+      "id_product": 2,
+      "product_name": "MANGO PEOPLE T-SHIRT",
+      "price": 52,
+      "product_img": "img/productsImg/2.jpg"
+    },
+    {
+      "id_product": 3,
+      "product_name": "MANGO PEOPLE T-SHIRT",
+      "price": 52,
+      "product_img": "img/productsImg/3.jpg"
+    },
+    {
+      "id_product":4,
+      "product_name": "MANGO PEOPLE T-SHIRT",
+      "price": 52,
+      "product_img": "img/productsImg/4.jpg"
+    },
+    {
+      "id_product": 5,
+      "product_name": "MANGO PEOPLE T-SHIRT",
+      "price": 52,
+      "product_img": "img/productsImg/5.jpg"
+    },
+    {
+      "id_product": 6,
+      "product_name": "MANGO PEOPLE T-SHIRT",
+      "price": 52,
+      "product_img": "img/productsImg/6.jpg"
+    },
+    {
+      "id_product": 7,
+      "product_name": "MANGO PEOPLE T-SHIRT",
+      "price": 52,
+      "product_img": "img/productsImg/7.jpg"
+    },
+    {
+      "id_product": 8,
+      "product_name": "MANGO PEOPLE T-SHIRT",
+      "price": 52,
+      "product_img": "img/productsImg/8.jpg"
+    },
+    {
+      "id_product": 9,
+      "product_name": "MANGO PEOPLE T-SHIRT",
+      "price": 52,
+      "product_img": "img/productsImg/9.jpg"
+    },
+    {
+      "id_product": 10,
+      "product_name": "MANGO PEOPLE T-SHIRT",
+      "price": 52,
+      "product_img": "img/productsImg/10.jpg"
+    },
+    {
+      "id_product": 11,
+      "product_name": "MANGO PEOPLE T-SHIRT",
+      "price": 52,
+      "product_img": "img/productsImg/11.jpg"
+    }
+  ]
+}
